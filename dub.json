@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"frees"
+	],
+	"copyright": "None",
+	"dependencies": {
+		"timed": "~>0.0.2"
+	},
+	"description": "Simple timed test",
+	"license": "None",
+	"name": "timed_test"
+}

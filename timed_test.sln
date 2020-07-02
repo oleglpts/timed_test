@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E0DE15BD-487A-4AA2-8F46-431408BF1C4F}") = "timed_test", ".dub/timed_test.visualdproj", "{900E5ED1-74A0-48C1-9598-3C9D0200CD39}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A4E47542-C19E-4855-A123-1B7A25CA4518} = {A4E47542-C19E-4855-A123-1B7A25CA4518}
+	EndProjectSection
+EndProject
+Project("{E0DE15BD-487A-4AA2-8F46-431408BF1C4F}") = "timed", ".dub/timed.visualdproj", "{A4E47542-C19E-4855-A123-1B7A25CA4518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		debug|x64 = debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900E5ED1-74A0-48C1-9598-3C9D0200CD39}.debug|x64.ActiveCfg = debug|x64
+		{900E5ED1-74A0-48C1-9598-3C9D0200CD39}.debug|x64.Build.0 = debug|x64
+		{A4E47542-C19E-4855-A123-1B7A25CA4518}.debug|x64.ActiveCfg = debug|x64
+		{A4E47542-C19E-4855-A123-1B7A25CA4518}.debug|x64.Build.0 = debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
